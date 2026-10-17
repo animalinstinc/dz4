@@ -3,9 +3,6 @@ namespace number
 {
     class Program
     {
-        static void Main()
-        {
-
-        }
+        static int Swap
     }
 }
